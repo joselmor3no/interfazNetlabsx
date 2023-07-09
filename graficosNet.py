@@ -33,7 +33,7 @@ class GraficosNet(tk.Tk):
         # Configurar la conexión FTP
         hostname = "ftp.netlabsx.com"
         username = "ftp_victoria_lab@netlabsx.com"
-        password = "laboratorio$2023"
+        password = "***"
         remote_filename = "sucursal139qui.txt"
         local_file_path = "C:\\interfaz_netlabsx\\sucursal139qui.txt"
 
